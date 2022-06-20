@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# discord bot related
+.vscode
+discord.db
+config.json
+word_list.txt
+wordle
